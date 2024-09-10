@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "crypto-js": "^4.2.0",
+    "merkletreejs": "^0.4.0"
+  },
+  "name": "web3-assignment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
